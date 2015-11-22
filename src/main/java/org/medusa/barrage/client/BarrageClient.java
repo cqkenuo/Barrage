@@ -40,7 +40,7 @@ public class BarrageClient {
 
     @OnClose
     public void onClose(Session session) {
-        //移除用户吃
+        //移除用户池
         UserPool.remove(session.getId());
 
     }
