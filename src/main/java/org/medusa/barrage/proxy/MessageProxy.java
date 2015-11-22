@@ -12,7 +12,7 @@ import javax.websocket.Session;
 import java.lang.reflect.Method;
 
 /**
- * Created by 王湛智 on 2015/11/22.
+ * Created by 一线生 on 2015/11/22.
  * 说明：消息发送代理
  */
 public class MessageProxy implements MethodInterceptor {

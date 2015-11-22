@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by 王湛智 on 2015/11/22.
+ * Created by 一线生 on 2015/11/22.
  * 说明：用户池（sessionId/session）
  */
 public class UserPool {

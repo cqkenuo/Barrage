@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by 王湛智 on 2015/11/22.
+ * Created by 一线生 on 2015/11/22.
  * 说明：昵称池 （sessionID/nickName）
  */
 public class NickPool {
